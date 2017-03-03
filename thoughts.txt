@@ -1,0 +1,9 @@
+carousel quotes:
+
+* Unleashing the Mind
+* Object Oriented Design
+* Programming with a Purpose
+* Method to the Madness   def method("to_the_madness")
+* Purpose driven Development
+* Quality over Quantity
+* 
